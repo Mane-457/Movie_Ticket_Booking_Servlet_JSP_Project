@@ -1,4 +1,4 @@
-package cn.techtutorial.ctb.connection;
+package Movies;
 
 import java.sql.*;
 
