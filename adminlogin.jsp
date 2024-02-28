@@ -1,9 +1,3 @@
-<%-- 
-    Document   : adminlogin
-    Created on : Mar 15, 2023, 4:03:11 PM
-    Author     : nnbil
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
