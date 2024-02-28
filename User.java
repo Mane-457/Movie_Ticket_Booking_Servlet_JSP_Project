@@ -1,15 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package cn.techtutorial.ctb.user.model;
+package Movies;
 
 import cn.techtutorial.ctb.admin.model.Person;
 
-/**
- *
- * @author nnbil
- */
+
 public class User extends Person{
     private int id;
     private String email;
@@ -57,7 +50,7 @@ public class User extends Person{
 
     @Override
     public String toString() {
-        return super.toString(); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
+        return super.toString(); 
     }
 
     
