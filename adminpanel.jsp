@@ -1,10 +1,3 @@
-<%-- 
-    Document   : adminpanel
-    Created on : Mar 15, 2023, 4:03:49 PM
-    Author     : nnbil
---%>
-
-
 <%@page import="cn.techtutorial.ctb.admin.model.Admin"%>
 <%@page import="cn.techtutorial.ctb.connection.ConnectionDB"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
